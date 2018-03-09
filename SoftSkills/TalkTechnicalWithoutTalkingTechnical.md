@@ -35,6 +35,7 @@ The audience will walk away with techniques to try next time they are faced with
 - Pay attention to body language
 - Talk slow, spend more time with a complex concept than you would for a technical concept
 - Don't go too deep. For example, you don't need to explain the ins and outs of a messaging protocol for the person to understand that a message is sent and received.
+- Explain interactions from a user’s POV rather than how the system/tech works
 
 - We are all familiar with the stereotype that developers and engineers don't know how to communicate like real people.
 
