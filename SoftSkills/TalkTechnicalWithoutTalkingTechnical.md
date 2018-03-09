@@ -19,7 +19,7 @@ After this talk, you will walk away with techniques for communicating complex te
 
 
 ## Audience
-Devolopers and engineers who have the know-how to deliver innovative solutions to their clients, but want to improve their vocabulary and communication techniques when talking to their non-technical stakeholders.
+Developers and engineers who have the know-how to deliver innovative solutions to their clients, but want to improve their vocabulary and communication techniques when talking to their non-technical stakeholders.
 
 ## Outcomes/Conclusions
 The audience will walk away with techniques to try next time they are faced with having to explain technical concepts in order to get buy-in from a non-technical audience.
@@ -33,8 +33,8 @@ The audience will walk away with techniques to try next time they are faced with
 - Ask about their background and talk on their level
 - Don't be afraid to draw
 - Pay attention to body language
-- Talk slow, spend more time with something than you think you need to until you see boredom or comprehension
-- Don't over-explain, just get the concepts
+- Talk slow, spend more time with a complex concept than you would for a technical concept
+- Don't go too deep. For example, you don't need to explain the ins and outs of a messaging protocol for the person to understand that a message is sent and received.
 
 - We are all familiar with the stereotype that developers and engineers don't know how to communicate like real people.
 
