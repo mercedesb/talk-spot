@@ -13,4 +13,5 @@ My past and future talk ideas
 - [GraphQL, Apollo, and Express](./TechSkills/GraphQLApolloExpress.md)
 - [Learning a dynamically typed language from a statically typed background](./TechSkills/LearnDynamicFromStaticBackground.md)
 - [Software design patterns in Ruby](./TechSkills/SoftwareDesignPatternsInRuby.md)
+- [Writing a Crochet Pattern is like Writing Code](./TechSkils/CrochetPatternLikeCode.md)
 
