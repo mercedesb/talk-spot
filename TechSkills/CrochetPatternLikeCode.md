@@ -7,9 +7,9 @@
 You wouldn't believe how similar writing a crochet pattern is to writing code. There are hardware requirements, different languages, loops, methods, and modeling diagrams. I'll show how reading and writing crochet patterns uses many of the same fundamental principles as coding.
 
 ## Description
-After a long day at work, we all have hobbies we like to do when we leave the office, but that doesn't mean we have to shut down our programmer minds. I love to crochet in my spare time and in many cases, the approach to crafting is the same as coding. You wouldn't believe how similar writing a crochet pattern is to writing code. There are hardware requirements, different languages, loops, methods, and modeling diagrams.
+We all have hobbies we like to do when we leave the office, but that doesn't mean we have to shut down our programmer minds at the end of the day. I love to crochet in my spare time and in many cases, the approach to crafting is the same as coding. You wouldn't believe how similar writing a crochet pattern is to writing code. There are hardware requirements, different languages, loops, methods, and modeling diagrams.
 
-In this talk, I'll show how reading and writing crochet patterns uses many of the same fundamental principles as coding. You will walk away thinking about coding principles and their applications in the real world, beyond your screen. And you may even become interested in learning to crochet!
+In this talk, I'll show how reading and writing crochet patterns uses many of the same fundamental principles as coding, complete with Ruby code samples and personal crochet samples. You will walk away thinking about coding principles and their applications beyond your screen. You might even become interested in learning to crochet!
 
 ## Audience
 Who is the audience for?
