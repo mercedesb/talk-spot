@@ -1,4 +1,4 @@
-# How to talk technical without talking technical
+# Talk technical without talking technical
 
 ## Format
 
@@ -41,6 +41,6 @@ The audience will walk away with techniques to try next time they are faced with
 
 
 ## Submitted to
-
+- That Conference 2018
 
 ## Given at

@@ -34,6 +34,6 @@ After this talk, the audience will have an overview of how a GraphQL API differs
 
 
 ## Submitted to
-
+- That Conference 2018
 
 ## Given at

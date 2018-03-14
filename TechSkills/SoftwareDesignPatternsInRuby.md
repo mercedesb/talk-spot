@@ -34,6 +34,7 @@ After this talk, the audience will understand and feel comfortable implementing 
 - Interface in a statically typed language (.NET, Java)
 
 ## Submitted to
+- That Conference 2018
 
 
 ## Given at
