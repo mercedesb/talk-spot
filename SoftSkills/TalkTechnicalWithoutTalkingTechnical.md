@@ -5,7 +5,7 @@
 * Full talk
 
 ## Abstract
-
+From the most senior architect to recent bootcamp grad, we all need to explain abstract technology concepts to non-technical audiences. You will leave this talk with techniques for communicating these complex ideas in an approachable way that excites and empowers your stakeholders.
 
 ## Description
 
