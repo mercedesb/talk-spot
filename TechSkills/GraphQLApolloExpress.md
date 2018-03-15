@@ -5,7 +5,7 @@
 * Full talk
 
 ## Abstract
-Short and punchy.  A few sentences.
+In this introductory talk, we’ll discuss what GraphQL is, its benefits, and the costs to using it. We’ll walk through creating a simple React project using GraphQL and get our feet wet with this new language.
 
 ## Description
 If you work in web dev, you've probably heard of GraphQL. It is the shiny new tech attracting some software engineers away from more traditional REST APIs. In this introductory talk, we'll discuss what GraphQL is, its benefits, and the costs to using it. We'll walk through creating a simple React project using GraphQL and get our feet wet with this new language. If you've been meaning to explore GraphQL, this is the jumpstart you've been looking for.
