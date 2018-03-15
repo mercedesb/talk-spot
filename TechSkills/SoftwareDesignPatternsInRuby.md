@@ -7,7 +7,7 @@
 * Full talk
 
 ## Abstract
-Don't miss out on the benefits design patterns regardless of what language you are using. We'll
+Don't miss out on the benefits of design patterns regardless of what language you are using. We'll explore how the high-level concepts of statically typed and dynamically typed languages change the implementation of design patterns and provide concrete examples of some common patterns.
 
 ## Description
 How do you code to the interface if there is no concept of an interface type in your language? Or the reverse: you've never had an Interface before, how do you use it?
