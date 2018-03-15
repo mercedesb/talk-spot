@@ -7,14 +7,14 @@
 * Full talk
 
 ## Abstract
-Short and punchy.  A few sentences.
+Don't miss out on the benefits design patterns regardless of what language you are using. We'll
 
 ## Description
 How do you code to the interface if there is no concept of an interface type in your language? Or the reverse: you've never had an Interface before, how do you use it?
 
 Object oriented languages exist both as statically-typed and dynamically-typed, but how we implement design patterns differs due to the respective type system. Design patterns provide software engineers a wide array of tools to choose from when solving problems. They give us a common language when talking about our code and are flexible enough to be used across any and all domains. In this talk, we'll explore how the high-level concepts of the type system change the implementation of design patterns and provide concrete examples of some common patterns.
 
-Don't miss out on the benefits design patterns regardless of what language you are using.
+Don't miss out on the benefits of design patterns regardless of what language you are using.
 
 ## Audience
 Who is the audience for?
