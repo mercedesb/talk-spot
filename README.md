@@ -1,8 +1,10 @@
 # My past and future talk ideas
 
+## Accepted
+- - [Writing a Crochet Pattern is like Writing Code](./TechSkils/CrochetPatternLikeCode.md)
+
 ## Submitted
-- [Software design patterns in Ruby](./TechSkills/SoftwareDesignPatternsInRuby.md)
-- [Writing a Crochet Pattern is like Writing Code](./TechSkils/CrochetPatternLikeCode.md)
+- [Implementing Software Design Patterns across Type Systems](./TechSkills/SoftwareDesignPatternsInRuby.md)
 - [GraphQL, Apollo, and Express](./TechSkills/GraphQLApolloExpress.md)
 - [How to talk technical without talking technical](./SoftSkills/TalkTechnicalWithoutTalkingTechnical.md)
 
