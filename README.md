@@ -1,7 +1,7 @@
 # My past and future talk ideas
 
 ## Accepted
-- - [Writing a Crochet Pattern is like Writing Code](./TechSkils/CrochetPatternLikeCode.md)
+- [Writing a Crochet Pattern is like Writing Code](./TechSkils/CrochetPatternLikeCode.md)
 
 ## Submitted
 - [Implementing Software Design Patterns across Type Systems](./TechSkills/SoftwareDesignPatternsInRuby.md)
