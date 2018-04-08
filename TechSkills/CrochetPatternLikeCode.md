@@ -36,3 +36,4 @@ After this talk, the audience will have their interest piqued and learn a little
 
 
 ## Given at
+- Madison+ Ruby: Chicago 2018
