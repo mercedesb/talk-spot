@@ -1,4 +1,4 @@
-# Writing Crochet Patterns is like Wrting Code
+# Writing Crochet Patterns is like Writing Code
 
 ## Format
 
