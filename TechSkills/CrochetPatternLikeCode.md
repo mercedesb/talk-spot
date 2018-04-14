@@ -1,4 +1,4 @@
-# Writing Crochet Patterns is like Wrting Code
+# Writing Crochet Patterns is like Writing Code
 
 ## Format
 
@@ -36,3 +36,4 @@ After this talk, the audience will have their interest piqued and learn a little
 
 
 ## Given at
+- Madison+ Ruby: Chicago 2018
