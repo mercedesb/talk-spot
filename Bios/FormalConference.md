@@ -1,15 +1,5 @@
-Mercedes Bernard is a senior software engineer who enables her clients to deliver on their strategic visions.
+I'm Mercedes Bernard, and I'm a Software Engineer who doesn't just write code for my clients, but values them as a partner in building a product that meets the needs of the humans who use it. Having worked with clients in a wide range of industries including (but not limmited to!) healthcare, performing arts, beverage distribution, pet food, hospitality, luxury consumer goods, and government, I understand that no one knows your domain better than you do.
 
-Mercedes knows that the technology isn't important, as long as the solution is innovative and produces results.
+I bring a unique blend of technical know-how, non-technical language, and empathy to all of my projects. My clients walk away feeling empowered, comfortable, and heard. The specific technology and stack used aren't important if you don't love it when we're done.
 
-Mercedes  has [landed/secured/garnered/worked at/supported] [insert your most compelling experiences and wins].
-
-[First name] is a [trained/certified/awarded] [insert relevant trainings, awards, honors, etc].
-
-[First name] holds a [insert degree] in [insert area of study] from [insert university].
-
-Alex Honeysett is a Brand and Marketing Strategist who partners with CEOs, executives and solopreneurs to grow their personal and professional brands, human-to-human. After spending nearly a decade working in PR and marketing for multimillion dollar brands and startups, Alex knows what truly drives conversions, sold-out launches and New York Times interviews—and it’s not mastering the marketing flavor of the week. It’s how well you connect with the heart-beating people you’re trying to help and communicate your understanding back to them.
-
-Alex has landed coverage in print and broadcast outlets around the world, including the Today Show, Wall Street Journal, Mashable, BBC, NPR and CNN. Her own articles have been featured in The Muse, Forbes, Inc., Mashable, DailyWorth and Newsweek. In addition to her extensive PR and marketing experience, Alex is a trained business coach.
-
-Alex holds a BA in communications and journalism from the University of Delaware.
+I earned my BS in computer science from DePaul University. Outside of work, I try to unplug. I really enjoy fiber arts, particularly dyeing wool, spinning yarn, and crocheting.
