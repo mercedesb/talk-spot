@@ -2,11 +2,11 @@
 
 ## Accepted
 - [Writing a Crochet Pattern is like Writing Code](./TechSkills/CrochetPatternLikeCode.md)
+- [How to talk technical without talking technical](./SoftSkills/TalkTechnicalWithoutTalkingTechnical.md)
 
 ## Submitted
 - [Implementing Software Design Patterns across Type Systems](./TechSkills/SoftwareDesignPatternsInRuby.md)
 - [GraphQL, Apollo, and Express](./TechSkills/GraphQLApolloExpress.md)
-- [How to talk technical without talking technical](./SoftSkills/TalkTechnicalWithoutTalkingTechnical.md)
 
 ## Work In Progress
 
