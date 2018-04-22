@@ -29,6 +29,9 @@ After this talk, the audience will have their interest piqued and learn a little
 - Trial and error
 - testing your methods and loops
 - Undoing and redoing, rewriting and rewriting, it's all the same. In crochet we call it 'frogging,' as in 'rip-it, rip-it, rip-it' and when we're coding we class it up with 'refactoring,' but at the end of the day there is a lot of reworking until your stitches look just right or your code runs correctly and optimally.
+- debugging
+  - “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”” — Andrew Singer
+- QA and pattern testers
 
 
 ## Submitted to
