@@ -5,6 +5,7 @@
 - [How to talk technical without talking technical](./SoftSkills/TalkTechnicalWithoutTalkingTechnical.md)
 
 ## Submitted
+- [Empowering Early-Career Developers](./SoftSkills/empower-early-career-devs.md)
 - [Implementing Software Design Patterns across Type Systems](./TechSkills/SoftwareDesignPatternsInRuby.md)
 - [GraphQL, Apollo, and Express](./TechSkills/GraphQLApolloExpress.md)
 
