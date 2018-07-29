@@ -1,11 +1,14 @@
-# Talk technical without talking technical
+# How to talk technical (without talking technical)
 
 ## Format
 
 * Full talk
 
-## Abstract
+## Teeny abstract
 From the most senior architect to recent bootcamp grad, we all need to explain abstract technology concepts to non-technical audiences. You will leave this talk with techniques for communicating these complex ideas in an approachable way that excites and empowers your stakeholders.
+
+## Longer abstract
+From the most senior architect to recent bootcamp grad, we all need to explain abstract technology concepts to non-technical audiences. After this talk, you will walk away with techniques for communicating complex technical concepts in an approachable way that excites and empowers your stakeholders. Your stakeholders will be more likely to share your passion for tech and understand how your ideas will benefit their business. You will be more confident and as a result, the decision makers will have more confidence in you and the innovations you are pitching.
 
 ## Description
 
@@ -23,6 +26,11 @@ Developers and engineers who have the know-how to deliver innovative solutions t
 
 ## Outcomes/Conclusions
 The audience will walk away with techniques to try next time they are faced with having to explain technical concepts in order to get buy-in from a non-technical audience.
+
+## Other details
+This talk is both theoretical and practical. I'll present techniques for the audience to use in daily work and (time permitting) provide time to practice those skills with short guided activities.
+
+My intended audience is developers and engineers who have the know-how to deliver innovative solutions to their clients, but want to improve their vocabulary and communication techniques when talking to their non-technical stakeholders. This talk will be suitable for all experience levels, but most useful to the lead developers in the room who are responsible for communicating their technical decisions to the team at large and stakeholders.
 
 ## Outline
 
@@ -42,5 +50,7 @@ The audience will walk away with techniques to try next time they are faced with
 
 ## Submitted to
 - That Conference 2018
+- Lead Developer Austin 2018
+- Ruby Conf 2018
 
 ## Given at
