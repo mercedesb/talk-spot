@@ -1,4 +1,4 @@
-# Writing Crochet Patterns is like Writing Code
+# Talk Title
 
 ## Format
 45 min talk with Q&A? Lightning talk? etc.
