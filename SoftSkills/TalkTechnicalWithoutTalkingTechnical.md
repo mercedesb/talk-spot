@@ -49,8 +49,11 @@ My intended audience is developers and engineers who have the know-how to delive
 
 
 ## Submitted to
-- That Conference 2018
+- THAT Conference 2018
 - Lead Developer Austin 2018
 - Ruby Conf 2018
+- Lead Developer New York 2019
+- Windy City Devfest 2019
 
 ## Given at
+- THAT Conference 2018
