@@ -45,5 +45,8 @@ After this talk, the audience will learn about the experience with our 'domain e
 ## Submitted to
 - Lead Developer Austin 2018
 - Ruby Conf 2018
+- Lead Developer New York 2019
+- Windy City Devfest 2019
 
 ## Given at
+- Ruby Conf 2018
