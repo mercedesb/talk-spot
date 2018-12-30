@@ -76,6 +76,9 @@ After this talk, the audience will learn about the experience with our 'domain e
 - Lead Developer New York 2019
 - Windy City Devfest 2019
 - Pycon 2019
+- RailsConf 2019
+- Chicago Roboto 2019
+- O'Reilly OSCON 2019
 
 ## Given at
 - RubyConf 2018
