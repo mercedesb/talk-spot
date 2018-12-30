@@ -79,6 +79,7 @@ After this talk, the audience will learn about the experience with our 'domain e
 - RailsConf 2019
 - Chicago Roboto 2019
 - O'Reilly OSCON 2019
+- Women Who Code Connect 2019
 
 ## Given at
 - RubyConf 2018
