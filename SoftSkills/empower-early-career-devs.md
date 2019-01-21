@@ -80,6 +80,8 @@ After this talk, the audience will learn about the experience with our 'domain e
 - Chicago Roboto 2019
 - O'Reilly OSCON 2019
 - Women Who Code Connect 2019
+- Code Climate Engineering Leadership Summit 2019
 
 ## Given at
 - RubyConf 2018
+- Windy City Devfest 2019
