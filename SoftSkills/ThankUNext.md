@@ -26,13 +26,14 @@ This talk is intended for all contributors who get down on themselves when a pro
 
 
 ## Brainstorm
-- Healthcare client #1: boundaries
-- Healthcare client #2: customer support
-- Performing arts client: importance of input on estimates
-- Pet food client: effective communication? set aside your ego? don't overarchitect your code
-- Hospitality client: document decisions and change requests
-- Luxury goods client: managing budget and client expectation
-- Beverage distribution client: developer experience
+- Personal examples
+  - Healthcare client #1: boundaries
+  - Healthcare client #2: customer support
+  - Performing arts client: importance of input on estimates
+  - Pet food client: effective communication? set aside your ego? don't overarchitect your code
+  - Hospitality client: document decisions and change requests
+  - Luxury goods client: managing budget and client expectation
+  - Beverage distribution client: developer experience
 
 
 ## Submitted to
