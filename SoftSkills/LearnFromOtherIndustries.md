@@ -1,4 +1,4 @@
-# We don't have all the answers: what software devs can learn from other industries
+# We don't have all the answers: learning from other industries
 
 ## Format
 
@@ -11,17 +11,21 @@
 
 
 ## Audience
-
+This talk is intended for career switchers who want to better market themselves in the tech industry. This talk will also benefit people who make hiring decisions to identify skill gaps on their teams and ways in which their hiring practices are not inclusive of non-traditional backgrounds.
 
 
 ## Outcomes/Conclusions
-
+- 
 
 
 ## Other details
 
 ## Outline
-
+- Introduction
+- Examples of industries
+  - preschool teaching
+  - 
+- Making your hiring process/company more inclusive of career switchers
 
 ## Brainstorm
 - preschool teachers
