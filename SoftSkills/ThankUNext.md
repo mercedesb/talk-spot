@@ -11,7 +11,7 @@ Ariana Grande sings to us, "One taught me love, one taught me patience, one taug
 
 
 ## Audience
-This talk is intended for all contributors who get down on themselves when a project doesn't go swimmingly. If you want to learn and grow from your past projects, this talk is for you.
+This talk is intended for all contributors who get down on themselves when a project doesn't go swimmingly or who let their fear of making mistakes stop them from taking action. If you want to learn and grow from your past projects, this talk is for you.
 
 
 ## Outcomes/Conclusions
@@ -21,6 +21,9 @@ This talk is intended for all contributors who get down on themselves when a pro
 
 
 ## Other details
+
+## Pitch
+There is intense pressure in our industry for individuals to be perfect and not make mistakes. We see this in people covering up enormous data breaches and other technical mistakes, but also in the rampant imposter syndrome because so few people acknowledge and share mistakes with their teams. I think we can benefit both as individual team members and as an industry if we embrace a learning mindset and share our growth from past failures. In this talk, I'll be sharing not only large scale industry fails but also personal mistakes I've made in the past to 'walk the walk.' And this is all done through the lens of Ariana Grande's smash hit "Thank u, next." 
 
 ## Outline
 - Introduction **5 min**
@@ -33,10 +36,12 @@ This talk is intended for all contributors who get down on themselves when a pro
   - Big software project #1 - 3 min
   - Big software project #2 - 3 min
   - 1-2 Personal examples of project failure - 5 min
- - Strategies to embrace "thank u, next" **10 min**
-  - blameless post-mortems
-  - growth mindeset?
-
+- Strategies to embrace "thank u, next" **10 min**
+  - Blameless post-mortems
+  - Build a learning culture (embrace experimentation, value a growth mindset)
+  - Self-retro and acknowledge mistakes
+  - Find actionable takeaways from your learning
+  - Share mistakes widely
 
 ## Brainstorm
 - Personal examples
@@ -50,6 +55,6 @@ This talk is intended for all contributors who get down on themselves when a pro
 
 
 ## Submitted to
-
+- RailsConf 2019
 
 ## Given at
