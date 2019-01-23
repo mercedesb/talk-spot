@@ -5,7 +5,7 @@
 * Full talk
 
 ## Abstract
-Ariana Grande sings to us, "One taught me love, one taught me patience, one taught me pain, now I'm so amazing." We can all benefit from looking at our project mishaps with this perspective. Every mistake, oops, and failure can teach us something. In this talk, we'll look at some real examples of project failures (both in software and out), what those involved learned and how they improved for their next project, and strategies to remove blame, shame, and fear following project mishaps to help identify learnings. 
+Ariana Grande sings to us, "One taught me love, one taught me patience, one taught me pain, now I'm so amazing." We can all benefit from looking at our project mishaps with this perspective. Every mistake, oops, and failure can teach us something. In this talk, we'll look at some real examples of project failures of all scales, what can be learned from those mistakes, and strategies to remove blame, shame, and fear following project failures to help identify learnings. 
 
 ## Description
 
