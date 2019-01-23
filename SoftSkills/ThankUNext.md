@@ -56,5 +56,6 @@ There is intense pressure in our industry for individuals to be perfect and not 
 
 ## Submitted to
 - RailsConf 2019
+- THAT Conference 2019
 
 ## Given at
