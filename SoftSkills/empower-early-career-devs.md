@@ -71,17 +71,19 @@ After this talk, the audience will learn about the experience with our 'domain e
 - check in: how are they feeling? are they overwhelmed? is there something they wish they were doing/learning but aren't?
 
 ## Submitted to
-- Lead Developer Austin 2018
+- ~Lead Developer Austin 2018~
 - RubyConf 2018
-- Lead Developer New York 2019
+- ~Lead Developer New York 2019~
 - Windy City Devfest 2019
-- Pycon 2019
+- ~Pycon 2019~
 - RailsConf 2019
-- Chicago Roboto 2019
+- ~Chicago Roboto 2019~
 - O'Reilly OSCON 2019
 - Women Who Code Connect 2019
 - Code Climate Engineering Leadership Summit 2019
+- self.conference 2019
 
 ## Given at
 - RubyConf 2018
 - Windy City Devfest 2019
+- O'Reilly OSCON 2019
