@@ -82,6 +82,7 @@ After this talk, the audience will learn about the experience with our 'domain e
 - Women Who Code Connect 2019
 - Code Climate Engineering Leadership Summit 2019
 - self.conference 2019
+- 2019 Chicago Women in Technology Conference
 
 ## Given at
 - RubyConf 2018
