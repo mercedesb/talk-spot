@@ -59,5 +59,6 @@ There is intense pressure in our industry for individuals to be perfect and not 
 - RailsConf 2019
 - THAT Conference 2019
 - self.conference 2019
+- 2019 Chicago Women in Technology Conference
 
 ## Given at
