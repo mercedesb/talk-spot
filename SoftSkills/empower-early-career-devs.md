@@ -76,15 +76,16 @@ After this talk, the audience will learn about the experience with our 'domain e
 - ~Lead Developer New York 2019~
 - Windy City Devfest 2019
 - ~Pycon 2019~
-- RailsConf 2019
+- ~RailsConf 2019~
 - ~Chicago Roboto 2019~
 - O'Reilly OSCON 2019
 - Women Who Code Connect 2019
-- Code Climate Engineering Leadership Summit 2019
+- ~Code Climate Engineering Leadership Summit 2019~ accepted after waitlist but couldn't attend
 - self.conference 2019
 - 2019 Chicago Women in Technology Conference
 
 ## Given at
 - RubyConf 2018
 - Windy City Devfest 2019
+- self.conference 2019
 - O'Reilly OSCON 2019
