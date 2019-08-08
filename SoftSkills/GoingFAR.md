@@ -24,20 +24,20 @@ Anyone who wants to be a better coworker and build more productive and supportiv
 
 
 ## Outline
-I. Intro - the profound impact a supportive environment has on individuals and teams (facts!)
-II. Feedback
-    A. Giving feedback - what is and isn't constructive, a framework for giving valuable feedback, and why constructive feedback isn't enough
-    B. Receiving feedback - receiving feedback gracefully is a hard skill, tips for receiving feedback, how to respond to feedback in a productive manner
-    C. Creating a regular cycle of feedback
-III. Accountability
-    A. How acountability affects goals (research!)
-    B. Identifying what accountability strategies work for you
-    C. Offering supportive accountability as a coworker
-IV. Recognition
-    A. My favorite part!
-    B. The benefits of recognition - especially for under-represented people in tech and how over-represented folks can use recognition to lend their privilege
-    C. Considering and respecting how different people like to be recognized
-V. Conclusion - bring it all together and illustrate how each of these pieces directly contribute to a supportive team
+- I. Intro - the profound impact a supportive environment has on individuals and teams (facts!)
+- II. Feedback
+    - A. Giving feedback - what is and isn't constructive, a framework for giving valuable feedback, and why constructive feedback isn't enough
+    - B. Receiving feedback - receiving feedback gracefully is a hard skill, tips for receiving feedback, how to respond to feedback in a productive manner
+    - C. Creating a regular cycle of feedback
+- III. Accountability
+    - A. How acountability affects goals (research!)
+    - B. Identifying what accountability strategies work for you
+    - C. Offering supportive accountability as a coworker
+- IV. Recognition
+    - A. My favorite part!
+    - B. The benefits of recognition - especially for under-represented people in tech and how over-represented folks can use recognition to lend their privilege
+    - C. Considering and respecting how different people like to be recognized
+- V. Conclusion - bring it all together and illustrate how each of these pieces directly contribute to a supportive team
 
 ## Brainstorm
 - Giving and receiving feedback
