@@ -5,7 +5,7 @@
 * Full talk
 
 ## Abstract
-It's easy to fall into a 1:1 rut. Asking the same questions, giving the same answers, or coming to the meeting with, "I don't have anything to talk about." Whether you are the person with leadership responsibilities or the person looking for guidance, it can be hard to know what to do with your 1:1 time. This talk will explain why this time is so important, provide ideas for mixing up your 1:1s, and will share some strategies for making sure your 1:1 time is as effective and productive as possible, helping you achieve your professional development goals.
+It's easy to fall into a one-on-one (1:1) rut—asking the same questions, giving the same answers, or coming to the meeting with, "I don't have anything to talk about." Whether you are the person with leadership responsibilities or the person looking for guidance, it can be hard to know what to do with your 1:1 time. This talk will explain why this time is so important, provide ideas for mixing up your 1:1s, and will share some strategies for making sure your 1:1 time is as effective and productive as possible, helping you achieve your professional development goals.
 
 ## Description
 
@@ -33,8 +33,26 @@ IV. Strategies for making 1:1s intentional and productive
     C. Establishing a routine
 V. Conclusion - tie it all together. Maybe a personal anecdote from a recent successful 1:1.
 
+## Brainstorm
+- Ideas for diffrent, individualized 1:1s
+- More intentional, personal professional development
+- Ask them how they would like to use 1:1 time
+- Goal setting
+- Goal check-ins
+- Accountability planning
+- Problem solving
+- Venting
+- Pairing
+- Individualized
+- Feedback
+- Recognition
+- Take notes & review before your next 1:1
+- Establish a routine that works
+- Don't force it
+- Research benefits of 1:1 time
+
 
 ## Submitted to
-
+- RubyConf 2019
 
 ## Given at
