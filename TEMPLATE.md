@@ -3,10 +3,8 @@
 ## Format
 45 min talk with Q&A? Lightning talk? etc.
 
-## Abstract
-
-
-## Description
+## Brainstorm
+- just put ideas here
 
 
 ## Audience
@@ -20,8 +18,11 @@ away with?
 
 ## Outline
 
-## Brainstorm
-- just put ideas here
+
+## Description
+
+
+## Abstract
 
 
 ## Submitted to
