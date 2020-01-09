@@ -56,5 +56,13 @@ I want to present some of the intimidating CS fundamentals in a welcoming and fu
 ## Submitted to
 - THAT Conference 2019
 - self.conference 2019
+- RubyConf 2019
+- CodeMash 2020
+- PyCon 2020
 
 ## Given at
+- THAT Conference 2019
+- self.conference 2019
+- Chicago JS Camp 2019
+- RubyConf 2019
+- CodeMash 2020
