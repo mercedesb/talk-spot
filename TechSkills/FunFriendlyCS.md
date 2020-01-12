@@ -59,6 +59,8 @@ I want to present some of the intimidating CS fundamentals in a welcoming and fu
 - RubyConf 2019
 - CodeMash 2020
 - PyCon 2020
+- KCDC 2020
+- Stir Trek 2020
 
 ## Given at
 - THAT Conference 2019
