@@ -43,7 +43,7 @@ The audience will walk away with knowing how to submit a CFP along with tips to 
 
 
 ## Abstract
-You are uniquely qualified to be a conference speaker—no one can share your thoughts on a topic better than you! Whether you've been working for decades or just got your first job, you have a perspective to share with the community that we can all learn from. If you've wanted to speak at a conference but didn't know where to start, this talk is for you. We'll cover how to find and apply for speaking engagements, information to remember when making your slides, and tips for making the hard part—speaking in front of friends you haven't met before—easier! 
+You are uniquely qualified to be a conference speaker—no one can share your thoughts on a topic better than you! Whether you've been working for decades or just got your first job, you have a perspective to share with the community that we can all learn from. We'll cover how to find and apply for speaking engagements, information to remember when making your slides, and tips for making the hard part—speaking in front of friends you haven't met before—easier! 
 
 ## Submitted to
 - self.conference 2020
