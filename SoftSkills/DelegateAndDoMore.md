@@ -60,7 +60,9 @@ Managers or team leads who have a lot on their plate and a team of people who co
     - C. More hiring process changes coming in 2020
 
 ## Description
+This talk is targeted towards managers, team leads, or anyone with leadership responsibilities who have a lot on their plate and a team of people who they want to support and give more career opportunities.
 
+By the end of this talk, the audience will have increased self-awareness of when they may be hoarding work and when they should be delegating, some tips to prepare themselves to delegate, and a framework for successful and supportive delegation.
 
 ## Abstract
 As a leader, the transition from “doing” to “leading” is one of the hardest. You are measured by what you and your team achieve, but there aren’t enough hours in the day to do it all yourself. Delegating is the key to achieving more but is a challenging skill to learn and an even harder one to be good at. We’ll cover how to prepare yourself to “let go,” how to know what and when to delegate and to who, and a framework of support so you can be sure that your team members are successful in their new responsibilities. 
