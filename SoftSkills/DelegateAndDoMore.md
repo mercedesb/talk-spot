@@ -68,6 +68,7 @@ As a leader, the transition from “doing” to “leading” is one of the hard
 Last year, my company had bold goals in nearly every area of the business—hiring, sales, and process. Over Q2 and Q3, we had significant leadership changes and dipping morale on the team. How could the new leaders manage the massive workload while restoring confidence with the team? We embraced delegation and finding opportunities to challenge our team members. 
 
 ## Submitted to
-- CTO Summit
+- CTO Summit Spring 2020
+- self.conference 2020
 
 ## Given at
