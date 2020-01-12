@@ -28,36 +28,36 @@ Managers or team leads who have a lot on their plate and a team of people who co
 3. A framework for successful delegation
 
 ## Outline
-I. Intro
-    A. About me: 30 seconds
-    B. Story
-        1. Situation - lofty goals as a company, growth goals, process goals, sales goals, everything
-        2. Complication - complete restructuring of leadership and morale issues
-        3. Question - how to manage the massive new workload and restore the confidence of the team?
-        4. Answer - Delegation!
-II. Prework Reflection
-    A. Are you hoarding work?
-    B. When should you be delegating? 
-    C. What are good tasks to delegate?
-III. Prepare to delegate
-    A. Mentally prepare yourself to be OK with letting go
-    B. Lay a solid foundation for process and expectations
-    C. Identify the opportunity, its scope, and someone who's skills and goals align with it
-IV. Framework for successful delegation
-    A. ASK!
-        1. Explain why you chose this person
-        2. Signal trust, belief, and confidence
-    B. Clearly set expectations and define the purpose
-    C. Define or agree to a framework for decision making
-        1. This allows the person to feel confident making decisions independently
-    D. Commit to an accountability plan that works for that person (collaborate on this step!)
-    E. Make yourself available for support
-    F. Gratitude and recognition!
-        1. Show the person the impact of their work
-V. Conclusion
-    A. New code challenges
-    B. Revamped apprenticeship program
-    C. More hiring process changes coming in 2020
+- I. Intro
+    - A. About me: 30 seconds
+    - B. Story
+        - 1. Situation - lofty goals as a company, growth goals, process goals, sales goals, everything
+        - 2. Complication - complete restructuring of leadership and morale issues
+        - 3. Question - how to manage the massive new workload and restore the confidence of the team?
+        - 4. Answer - Delegation!
+- II. Prework Reflection
+    - A. Are you hoarding work?
+    - B. When should you be delegating? 
+    - C. What are good tasks to delegate?
+- III. Prepare to delegate
+    - A. Mentally prepare yourself to be OK with letting go
+    - B. Lay a solid foundation for process and expectations
+    - C. Identify the opportunity, its scope, and someone who's skills and goals align with it
+- IV. Framework for successful delegation
+    - A. ASK!
+        - 1. Explain why you chose this person
+        - 2. Signal trust, belief, and confidence
+    - B. Clearly set expectations and define the purpose
+    - C. Define or agree to a framework for decision making
+        - 1. This allows the person to feel confident making decisions independently
+    - D. Commit to an accountability plan that works for that person (collaborate on this step!)
+    - E. Make yourself available for support
+    - F. Gratitude and recognition!
+        - 1. Show the person the impact of their work
+- V. Conclusion
+    - A. New code challenges
+    - B. Revamped apprenticeship program
+    - C. More hiring process changes coming in 2020
 
 ## Description
 
