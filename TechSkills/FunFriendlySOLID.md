@@ -45,6 +45,7 @@ Whether you are a bootcamp grad, self-taught career switcher, or someone who, li
 
 ## Submitted to
 - self.conference 2020
+- KCDC 2020
 
 
 ## Given at
