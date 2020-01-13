@@ -72,5 +72,6 @@ Last year, my company had bold goals in nearly every area of the business—hiri
 ## Submitted to
 - CTO Summit Spring 2020
 - self.conference 2020
+- KCDC 2020
 
 ## Given at
