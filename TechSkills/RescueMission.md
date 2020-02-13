@@ -1,4 +1,5 @@
 # Talk Title
+Rescue mission accomplished
 
 ## Format
 45 min talk
@@ -48,6 +49,7 @@
 - Incremental refactors are important - small changes, one by one
 - Important to keep track of commits, branches, database migrations and deploys
     - want to make sure you migrate necessary data before deploying the migration that drops the column
+- You can't change a project's past, but you can rewrite it's future.
 
 
 ## Audience
@@ -163,9 +165,13 @@ By the end of this talk, the audience will have tangible steps to take to increm
 
 
 ## Description
+As a consultant, I've had many clients bring me projects that were on their last legs. My most recent project was unable to run locally, could not be deployed reliably, and making a code change almost guaranteed unknown side effects. When faced with a rescue mission, developers are quick to say, "Scrap it. It's quicker to rewrite it from scratch." But most of the time that's an irresponsible choice. Many applications are currently making their stakeholders revenue and have onboarded users with data in the system. Deciding to stabilize a failing project in place is often a scary challenge, but can be a better option for many projects. By the end of this talk, the audience will have tangible steps to take to incrementally stabilize a failing application. They will also be on the lookout for warning signs of too much tech debt, learn some times when tech debt is OK, and walk away with useful language to use when advocating to pay down the debt.
 
 
 ## Abstract
+"Your mission, should you choose to accept it..." A stakeholder has brought you a failing project and wants you to save it.
+
+Do you accept your mission? Do you scrap the project and rewrite it? Deciding to stabilize a failing project can be a scary challenge. By the end of this talk, you will have tangible steps to take to incrementally refactor a failing application in place. We will also be on the lookout for warning signs of too much tech debt, learn when tech debt is OK, and walk away with useful language to use when advocating to pay down the debt.
 
 
 ## Submitted to
