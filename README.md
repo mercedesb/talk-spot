@@ -5,16 +5,13 @@
 - [How to talk technical without talking technical](./SoftSkills/TalkTechnicalWithoutTalkingTechnical.md)
 - [Empowering Early-Career Developers](./SoftSkills/empower-early-career-devs.md)
 - [Optimizing SEO in SPAs](./TechSkills/OptimizingSEOinSPAs.md)
+- [Fun, Friendly Computer Science](./TechSkills/FunFriendlyCS.md)
 
 ## Submitted
-- [Implementing Software Design Patterns across Type Systems](./TechSkills/SoftwareDesignPatternsInRuby.md)
-- [GraphQL, Apollo, and Express](./TechSkills/GraphQLApolloExpress.md)
+- [Delegate and do more](./SoftSkills/DelegateAndDoMore.md)
+- [Let's get you started conference speaking](./SoftSkills/StartConfSpeaking.md)
+- [Fun, Friendly SOLID Principles](./TechSkills/FunFriendlySOLID.md)
+- [Rescue Mission Accomplished](./TechSkills/RescueMission.md)
 
-## Work In Progress
-
-## Ideas
-
-- [Conflict Resolution In The Conference Room](./SoftSkills/ConflictResolutionInTheConferenceRoom.md)
-- [Code UX: The developer is a user too](./TechSkills/CodeUX.md)
 
 
