@@ -45,19 +45,121 @@
     - tests for new functionality
     - backfill tests for existing code that you're using in new features
 - Rewriting from scratch isn't always the answer (most of the time it isn't)
+- Incremental refactors are important - small changes, one by one
+- Important to keep track of commits, branches, database migrations and deploys
+    - want to make sure you migrate necessary data before deploying the migration that drops the column
 
 
 ## Audience
 Who is the audience?
-This talk is intended for developers who are or have been tasked with trying to right a sinking project. As developers, we tend to favor rewrites over fixing our mistakes. This talk is to show that greenfield development isn't always the answer and that you can incrementally improve a failing project.
+This talk is intended for developers who are or have been tasked with trying to save an application that has incurred too much tech debt and is not stable. As developers, we tend to favor rewrites over fixing our mistakes. This talk is to show that greenfield development isn't always the answer and that you can incrementally improve a failing project.
 
 
 ## Outcomes/Conclusions
 What will the audience get out of this talk? What do I want them to come
 away with?
+By the end of this talk, the audience will have tangible steps to take to incrementally stabilize a failing application. They will also be on the lookout for warning signs of too much tech debt, learn some times when tech debt is OK, and walk away with useful language to use when advocating to pay down the debt.
 
 
 ## Outline
+- Intro
+    - Story time! Talk about recent ag tech project with 4 unstable applications that couldn't reliably be set up in a local dev environment, be deployed, or be changed without unknown side effects
+- Gain an empathetic understanding
+    -  Understand how it got to this place - what decisions made this happen?
+        - Good, fast, cheap: pick 2. Which 2 did your stakeholders choose too often?
+        - How was tech debt incurred? And how was paying it down prioritized (or not)?
+    - Audit the state of the existing system
+        - Are you able to get the project running locally?
+        - Version support of your language/framework/packages. When is EOL?
+        - What edge case requirements does the project have? (looking at you IE support)
+        - Security vulnerabilities
+        - Static analysis - complexity, churn, code duplication, etc
+        - Test coverage
+        - Dead code
+        - Error monitoring
+        - Performance
+        - Data model
+            - Referential integrity in the database
+            - Associations match foreign keys/columns?
+            - Level of normalization - does it make sense?
+        - General consistency
+            - Look at API requests/reponses
+            - Parameter naming
+        - What does the deployment process look like?
+- Make a plan
+    - Rewrite vs incremental refactor?
+        - Rewriting from scratch isn't always the answer (most of the time it isn't)
+    - Create a roadmap to outline how you will approach stabilization
+    - Create a well-informed, realistic estimate
+    - Stakeholder education!!
+        - Why are the issues found during the audit problematic?
+        - Explain each part of the roadmap and its purpose (in context of the values of your audience)
+        - Why we can't add new features while this process is ongoing
+        - Clearly set expectations
+- Get to work
+    - Get a working local dev environment
+    - Error monitoring
+    - Performance monitoring
+    - Security vulnerabilities
+    - Test coverage
+        - Test the bugs! Helpful audit too
+        - 100% coverage would be ideal, especially if you are not the team/developer that wrote the code
+        - Timebox and focus on critical path
+    - Automated CI/CD
+    - Choose your approach for refactoring - layered or domain-driven? 
+        - We did a combo of both. 
+        - Complicated, de-normalized data model so we would pick one domain, start at the database and refactor layer by layer from db through business logic to presentation layer
+    - Incremental refactors are important - small changes, one by one
+    - Deploy early and often. The smaller your deploys the better.
+         - Deploying changes to the database are often done in two parts, especially when removing tables/columns and moving the data elsewhere
+            - Deploy 1: Add new table/column. Migrate (copy!) the data from the old table/column to the new
+            - Full QA
+            - Deploy 2: Remove old table/column
+- Lessons learned
+    - Delete dead code!
+    - Important to keep track of commits, branches, database migrations and deploys
+        - want to make sure you migrate necessary data before deploying the migration that drops the column
+
+- Conclusion
+    - If the project fails its not your fault. It got into this place without you, you don't have to be a savior
+    - Prevent future rescue missions
+        - Always leave the code better than when you found it
+        - Clearly named functions and variables
+        - Service objects
+        - Foreign keys and database constraints
+        - Model validations
+        - Tests for new functionality
+        - Backfill tests for existing code that you're using in new features
+
+### Outline to use for CFP
+- Intro
+    - Story time! Talk about recent ag tech project with 4 unstable applications that couldn't reliably be set up in a local dev environment, be deployed, or be changed without unknown side effects
+- Gain an empathetic understanding
+    -  Understand how it got to this place - what decisions made this happen?
+    - Audit the state of the existing system
+        - Will provide a comprehensive list of things to evaluate
+- Make a plan
+    - Rewrite vs incremental refactor?
+    - Create a roadmap to outline how you will approach stabilization
+    - Create a well-informed, realistic estimate
+    - Stakeholder education!!
+- Get to work
+    - Get a working local dev environment
+    - Error monitoring
+    - Performance monitoring
+    - Security vulnerabilities
+    - Test coverage
+    - Automated CI/CD
+    - Choose your approach for refactoring - layered or domain-driven? 
+    - Incremental refactors are important - small changes, one by one
+    - Deploy early and often. The smaller your deploys the better.
+- Lessons learned
+    - Delete dead code!
+    - Important to keep track of commits, branches, database migrations and deploys
+
+- Conclusion
+    - If the project fails its not your fault. It got into this place without you, you don't have to be a savior
+    - How to prevent future rescue missions
 
 
 ## Description
