@@ -175,7 +175,8 @@ Do you accept your mission? Do you scrap the project and rewrite it? Deciding to
 
 
 ## Submitted to
-- ...
+- RailsConf 2020
+- That Conference 2020
 
 
 ## Given at
