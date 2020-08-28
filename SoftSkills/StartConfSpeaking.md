@@ -48,6 +48,7 @@ You are uniquely qualified to be a conference speaker—no one can share your th
 ## Submitted to
 - self.conference 2020
 - KCDC 2020
+- RubyConf 2020
 
 
 ## Given at
