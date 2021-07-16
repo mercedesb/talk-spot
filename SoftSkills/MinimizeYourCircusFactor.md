@@ -64,7 +64,7 @@ By the end of this talk, my audience will have a new perspective on ownership an
   - Keep ATS & job postings, onboarding resources, performance management, all the tools up to date
   - Transition planning
 - V. Conclusion
-  - 
+
 
 ## Description
 

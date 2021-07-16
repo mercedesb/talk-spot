@@ -80,9 +80,9 @@ At the end of this talk, the audience will have steps they can take in order to 
 
 ## Abstract
 
-"Welcome! We're so excited to have you 🤗 please excuse the mess." - if a codebase could talk
+"Welcome! We're so excited to have you 🤗 please excuse the mess." – if a codebase could talk
 
-When we join a new team or start a new project, we have to onboard to the codebase. Diving into code that we're unfamiliar with can be stressful or make us feel like we don't know what we're doing. And the longer the codebase has been around, the more intense those feelings can be. But there are steps we can take to familiarize ourselves with new code and start contributing quickly. We'll talk about how to build our code comprehension skills and how to make our own code welcoming to guests in the future.
+When we join a new team or start a new project, we have to onboard to the codebase. Diving into code that we're unfamiliar with can be stressful or make us feel like we don't know what we're doing. And the longer the codebase has been around, the more intense those feelings can be. But there are steps we can take to understand new code and start contributing quickly. In this talk, we'll cover how to build our code comprehension skills and how to make our own code welcoming to guests in the future.
 
 ## Abstract (too long)
 "Welcome! We're so excited to have you 🤗 please excuse the mess." - if a codebase could talk
