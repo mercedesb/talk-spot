@@ -92,9 +92,8 @@ When we use the words "coaching" or "mentorship," we tend to picture one-on-one 
 Every activity during your workday is an opportunity to support your team members' career growth, including writing code, opening pull requests, and estimating tickets. In this talk, we'll identify strategies for coaching in our everyday technical activities and open our minds to look for opportunities in non-traditional places.
 
 ## Submitted to
-
-- ...
+- RubyConf 2020
 
 ## Given at
+- RubyConf 2020
 
-- ...
