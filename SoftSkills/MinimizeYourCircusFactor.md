@@ -75,8 +75,8 @@ If you or someone on your team ran away to join the circus, how stressful would 
 After a year+ in a pandemic, many are considering taking new roles or extended PTO. It's more important than ever to invest in minimizing our "circus factor" and building resilient teams so that everyone can unplug and do what's best for them with as little stress as possible. In this talk, we'll discuss low-friction changes you can make today so that if you join the circus tomorrow your team is empowered and enabled for continued success.
 
 ## Submitted to
-- ...
+- RubyConf 2021
 
 
 ## Given at
-- ...
+- RubyConf 2021
