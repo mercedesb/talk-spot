@@ -93,7 +93,7 @@ Come on in, put your feet up. Let's get comfy.
 
 
 ## Submitted to
-- ...
+- RubyConf 2021
 
 
 ## Given at

@@ -110,7 +110,7 @@ Interviewing in tech is a nightmare, but it doesn't have to be. Every step in yo
 This talk will cover how to evaluate your current hiring processes and how to identify opportunities to make them more positive and welcoming, after which you will be able to implement specific strategies to make your interviews more enjoyable for your team and your candidates.
 
 ## Submitted to
-
+- DevFest WI 2020 (accepted but declined due to pandemic)
 - ...
 
 ## Given at
