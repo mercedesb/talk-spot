@@ -51,6 +51,9 @@ This talk is intended for devs who recently switched jobs or are experiencing an
 ## Outcomes/Conclusions
 At the end of this talk, the audience will have steps they can take in order to increase their understanding of how parts of a new codebase fit together. We'll normalize the stress and anxiety we feel when we're working with something we didn't write and we don't understand yet so that we can move past it and focus on learning. And we'll talk about what we can do to make our codebases more welcoming to guests in the future.
 
+## Pitch
+I've been a consultant for almost 10 years so I regularly need to jump into unfamiliar codebases and start contributing quickly. This can mean up to 20 new codebases a year and they're not always in tech stacks or languages that I'm familiar with. With this experience, I've learned a ton of strategies for understanding new code and figuring out how to ship code quickly. Learning how to read others' code is not a skill that's taught in most educational programs and whether someone is early in their career or switching jobs, it's a valuable skill to learn and practice.
+
 
 ## Outline
 - I. Intro
@@ -94,6 +97,8 @@ Come on in, put your feet up. Let's get comfy.
 
 ## Submitted to
 - RubyConf 2021
+- RailsConf 2022
+- Women Who Code Connect 2022
 
 
 ## Given at
