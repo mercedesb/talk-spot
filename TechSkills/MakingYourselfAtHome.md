@@ -102,4 +102,4 @@ Come on in, put your feet up. Let's get comfy.
 
 
 ## Given at
-- ...
+- RailsConf 2022

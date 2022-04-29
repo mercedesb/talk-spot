@@ -11,6 +11,7 @@
 - [Rescue Mission Accomplished](./TechSkills/RescueMission.md)
 - [Minimize Your Circus Factor](./SoftSkills/MinimizeYourCircusFactor.md)
 - [Trust at scale: intentional communication for engineering leaders](./SoftSkills/TrustAtScale.md)
+- [Come on in! Making yourself at home in a new codebase](./TechSkills/MakingYourselfAtHome.md)
 
 ## Submitted
 - [Delegate and do more](./SoftSkills/DelegateAndDoMore.md)
@@ -18,7 +19,6 @@
 - [Fun, Friendly SOLID Principles](./TechSkills/FunFriendlySOLID.md)
 - [Art of Estimation](./TechSkills/ArtOfEstimation.md)
 - [Hiring humans: making interviews enjoyable](./SoftSkills/HumanInterviews.md)
-- [Come on in! Making yourself at home in a new codebase](./TechSkills/MakingYourselfAtHome.md)
 
 
 
